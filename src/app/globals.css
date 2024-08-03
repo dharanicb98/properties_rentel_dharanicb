@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: black;
+  /* background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb)); */
+    background-color: white;
+}
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  /* Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+  .flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .flex-between {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .dark-scrollbar {
+    &::-webkit-scrollbar {
+      width: 4px;
+      height: 4px;
+      display: block;
+    }
+
+    &::-webkit-scrollbar {
+      width: 4px;
+      display: block;
+      -webkit-overflow-scrolling: auto !important;
+    }
+
+    &::-webkit-scrollbar-track {
+      background: #d9d9d9;
+      border-left: 1px solid white;
+      border-right: 1px solid white;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: black;
+      border-left: 8px solid black;
+      border-right: 8px solid black;
+      border-radius: 10px;
+    }
+  }
+  .ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .dashed__border {
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='16' ry='16' stroke='%23333' stroke-width='3' stroke-dasharray='9%2c 14' stroke-dashoffset='7' stroke-linecap='square'/%3e%3c/svg%3e");
+  }
+
+  .colored-circle {
+    display: inline-block;
+    border-radius: 50%;
+  }
+}
+/* styles/globals.css */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

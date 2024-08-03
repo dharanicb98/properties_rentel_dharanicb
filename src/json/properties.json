@@ -1,0 +1,211 @@
+[
+  {
+    "id": "1",
+    "title": "Waterfront Vacation Home",
+    "description": "Contemporary 3D illustration of a vacation home on the waterfront.",
+    "price": 450,
+    "location": "Lakeview",
+    "bedrooms": 4,
+    "amenities": ["WiFi", "Pool", "Parking"],
+    "category": "Villa",
+    "image": "https://png.pngtree.com/background/20231016/original/pngtree-contemporary-3d-illustration-of-vacation-home-on-the-waterfront-picture-image_5576183.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Chalet Vacation Rental",
+    "description": "Beautiful chalet perfect for a serene vacation.",
+    "price": 350,
+    "location": "Mountain",
+    "bedrooms": 3,
+    "amenities": ["WiFi", "Parking", "Garden"],
+    "category": "Chalet",
+    "image": "https://img.freepik.com/premium-photo/chalet-vacation-rental-property_87720-97380.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Luxury Resort House",
+    "description": "Life resort house with luxurious amenities.",
+    "price": 600,
+    "location": "Beachfront",
+    "bedrooms": 5,
+    "amenities": ["WiFi", "Pool", "Garage"],
+    "category": "Resort",
+    "image": "https://c4.wallpaperflare.com/wallpaper/653/585/146/life-resort-house-architecture-wallpaper-preview.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Sunset Villa",
+    "description": "Beautiful villa with a sunset view and luxurious facilities.",
+    "price": 500,
+    "location": "Coastal",
+    "bedrooms": 4,
+    "amenities": ["Pool", "Garage", "Garden"],
+    "category": "Villa",
+    "image": "https://w0.peakpx.com/wallpaper/54/816/HD-wallpaper-villa-architecture-house-home-bedroom-beautiful-sunset-bed-palm-trees-nice-lounge-statue-luxury-vacation-cozy-snail-romantic-design-gongs-pool-palms-decor-candles-cool-jacuzzi.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Island Vacation Cottage",
+    "description": "Cozy island cottage perfect for a quiet vacation.",
+    "price": 400,
+    "location": "Island",
+    "bedrooms": 3,
+    "amenities": ["WiFi", "Pool", "Garden"],
+    "category": "Cottage",
+    "image": "https://gallery.streamlinevrs.com/units-gallery/00/06/DC/image_166414817.jpeg"
+  },
+  {
+    "id": "6",
+    "title": "Mountain Retreat",
+    "description": "Beautiful retreat in the mountains with scenic views.",
+    "price": 300,
+    "location": "Mountain",
+    "bedrooms": 3,
+    "amenities": ["WiFi", "Parking", "Garden"],
+    "category": "Cabin",
+    "image": "https://jenjon.in/wp-content/uploads/2015/08/12.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Luxury Villa with Pool",
+    "description": "Luxurious villa with private pool and modern amenities.",
+    "price": 700,
+    "location": "Beachfront",
+    "bedrooms": 6,
+    "amenities": ["WiFi", "Pool", "Garage"],
+    "category": "Villa",
+    "image": "https://media.vrbo.com/lodging/35000000/34090000/34090000/34089917/5d1417e6.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+  },
+  {
+    "id": "8",
+    "title": "Beachfront Mansion",
+    "description": "Magnificent beachfront mansion with private beach access.",
+    "price": 1000,
+    "location": "Beachfront",
+    "bedrooms": 8,
+    "amenities": ["WiFi", "Pool", "Garage", "Garden"],
+    "category": "Mansion",
+    "image": "https://www.parrishkauai.com/wp-content/uploads/2022/05/Poipu-Vacation-Rental-1.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Oceanview Villa",
+    "description": "Modern villa with stunning ocean views.",
+    "price": 550,
+    "location": "Coastal",
+    "bedrooms": 5,
+    "amenities": ["WiFi", "Pool", "Garage"],
+    "category": "Villa",
+    "image": "https://img.trackhs.com/x1080/https://track-pm.s3.amazonaws.com/elitepacific/image/fef060cf-05b9-4bcb-a18b-4c8b053d6622"
+  },
+  {
+    "id": "10",
+    "title": "Luxury Beach House",
+    "description": "Beach house with luxury amenities and a beautiful view.",
+    "price": 800,
+    "location": "Beachfront",
+    "bedrooms": 6,
+    "amenities": ["WiFi", "Pool", "Garden"],
+    "category": "Villa",
+    "image": "https://img.trackhs.com/x1080/https://track-pm.s3.amazonaws.com/elitepacific/image/3df0fd7b-fd21-41de-8fd2-96b50dae7832"
+  },
+  {
+    "id": "11",
+    "title": "Cozy Cabin",
+    "description": "Cozy cabin perfect for a quiet retreat.",
+    "price": 250,
+    "location": "Forest",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Parking"],
+    "category": "Cabin",
+    "image": "https://media.vrbo.com/lodging/37000000/36270000/36267900/36267863/ed2a02d2.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+  },
+  {
+    "id": "12",
+    "title": "Luxury Oceanfront Villa",
+    "description": "Luxurious villa with stunning oceanfront views.",
+    "price": 900,
+    "location": "Beachfront",
+    "bedrooms": 7,
+    "amenities": ["WiFi", "Pool", "Garage"],
+    "category": "Villa",
+    "image": "https://img.trackhs.com/x1080/https://track-pm.s3.amazonaws.com/elitepacific/image/ea7d2fba-7090-4459-8e6b-1eef6061596f"
+  },
+  {
+    "id": "13",
+    "title": "Mountain View Resort",
+    "description": "Resort with stunning mountain views and luxury amenities.",
+    "price": 650,
+    "location": "Mountain",
+    "bedrooms": 5,
+    "amenities": ["WiFi", "Pool", "Garden"],
+    "category": "Resort",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/4a/44/e4/magical-mountain-view.jpg?w=700&h=-1&s=1"
+  },
+  {
+    "id": "14",
+    "title": "Beachfront Paradise",
+    "description": "A paradise villa with private beach access and luxury amenities.",
+    "price": 850,
+    "location": "Beachfront",
+    "bedrooms": 6,
+    "amenities": ["WiFi", "Pool", "Garage", "Garden"],
+    "category": "Villa",
+    "image": "https://media.vrbo.com/lodging/97000000/96160000/96150600/96150559/6ffb641b.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+  },
+  {
+    "id": "15",
+    "title": "Seaside Cottage",
+    "description": "Cozy seaside cottage perfect for a relaxing vacation.",
+    "price": 300,
+    "location": "Coastal",
+    "bedrooms": 3,
+    "amenities": ["WiFi", "Parking", "Garden"],
+    "category": "Cottage",
+    "image": "https://images.trvl-media.com/lodging/35000000/34190000/34181600/34181521/672f759d.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+  },
+  {
+    "id": "16",
+    "title": "Island Villa Retreat",
+    "description": "Beautiful villa on the island with modern amenities.",
+    "price": 750,
+    "location": "Island",
+    "bedrooms": 5,
+    "amenities": ["WiFi", "Pool", "Garage"],
+    "category": "Villa",
+    "image": "https://www.bedarra.com.au/sites/default/files/styles/hero/public/BED-ISL-140707_0%20adj.jpg?itok=7B94ixJC"
+  },
+  {
+    "id": "17",
+    "title": "Modern Beach House",
+    "description": "A beautiful modern beach house with stunning sea views.",
+    "price": 650,
+    "location": "Beachfront",
+    "bedrooms": 4,
+    "amenities": ["WiFi", "Pool", "Parking"],
+    "category": "Beach House",
+    "image": "https://media.vrbo.com/lodging/24000000/23280000/23271400/23271312/b28a82ec.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+  },
+  {
+    "id": "18",
+    "title": "Luxury Forest Cabin",
+    "description": "Luxurious cabin in the forest, perfect for a secluded getaway.",
+    "price": 500,
+    "location": "Forest",
+    "bedrooms": 5,
+    "amenities": ["WiFi", "Fireplace", "Hot Tub"],
+    "category": "Cabin",
+    "image": "https://cropper.watch.aetnd.com/images.aetndigital.com/AETN-FYI_VMS/876/935/BRAND_FYI_VARP_218000_NLM_360447_2398_30_20190313_01_HD.jpg"
+  },
+  {
+    "id": "19",
+    "title": "Charming Countryside Cottage",
+    "description": "A cozy cottage in the countryside, ideal for a peaceful retreat.",
+    "price": 300,
+    "location": "Countryside",
+    "bedrooms": 2,
+    "amenities": ["WiFi", "Garden", "Parking"],
+    "category": "Cottage",
+    "image": "https://cdn.hometogo.net/medium/v1/8e2/e7b/afd75466cb18a8e59bd545e564.jpg"
+  }
+]
