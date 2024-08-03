@@ -1,3 +1,5 @@
+video guidence : https://github.com/dharanicb98/properties_rentel_dharanicb.git
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
